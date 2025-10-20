@@ -16,10 +16,8 @@ If I were in charge of the technology laws, I would say no A.I but bring cell ph
 # October 14, 2025
 My prompt was designed to make a game for new baristas to be able to memorise drinks more easily. Canva interpreted it as a click steps and watch as the drink gets made. The machanics of clicking the steps and then seeing the drink make itself was what I had hoped it would do, and it worked well, no bugs as i played. However, the game was boring and did not really show the full steps it would take to make the drink in real life. I think in the future it could incoparate better visuals, a small sense of acomplishment and consequense, and more complex steps to complete the drink.
 # October 20, 2025
-| Name   | class | seat |
+| Name   | Class | Seat |
 | ----------- | ----------- | -------- |
 |  Franklin  | Second     | 91A |
-| ----------- | ----------- | -------- |
 | Hardeep  | Third     | 61F |
-| ----------- | ----------- | -------- |
 | Marla   |  First  |  35B  |
