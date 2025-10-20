@@ -15,3 +15,11 @@ Six seven is a stupid brain rot phrase. It primarily comes from a song that got 
 If I were in charge of the technology laws, I would say no A.I but bring cell phones back. For starters, A.I, while at first glace a good tool, can lead to many problems such as, not actually learning, getting incorrect information, and general lazyness attached to the ease of not having to actually search the information up and see if the sources are reliable. All those problems would lead me to continue the A.I ban in schools, I would also hope students would carry principle outside of school since A.I stunts growth and creativity in many ways even outside of school. The next thing I would do in unban phones. In my opinion the phone ban was unessesary and more of a distractions then the actual cell phones themselfs. Cell phones, while back, would have new laws in place, phones can only be used if teacher allowed it or during lunch and passing periods.
 # October 14, 2025
 My prompt was designed to make a game for new baristas to be able to memorise drinks more easily. Canva interpreted it as a click steps and watch as the drink gets made. The machanics of clicking the steps and then seeing the drink make itself was what I had hoped it would do, and it worked well, no bugs as i played. However, the game was boring and did not really show the full steps it would take to make the drink in real life. I think in the future it could incoparate better visuals, a small sense of acomplishment and consequense, and more complex steps to complete the drink.
+# October 20, 2025
+| Name   | class | seat |
+| ----------- | ----------- | -------- |
+|  Franklin  | Second     | 91A |
+| ----------- | ----------- | -------- |
+| Hardeep  | Third     | 61F |
+| ----------- | ----------- | -------- |
+| Marla   |  First  |  35B  |
