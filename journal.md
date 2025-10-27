@@ -21,3 +21,9 @@ My prompt was designed to make a game for new baristas to be able to memorise dr
 |  Franklin  | Second     | 91A |
 | Hardeep  | Third     | 61F |
 | Marla   |  First  |  35B  |
+# October 27, 2025
+| Name   | Main Dish | Dessert |
+| ----------- | ----------- | -------- |
+| Fiona | Gado Gado | Creme Brulee |
+| Tobias | Shrimp Ceeviche | French Apple Cake |
+| Leanne | Beef Wellington | Rashberry Tiramisu |
