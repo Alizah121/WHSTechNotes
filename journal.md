@@ -27,3 +27,13 @@ My prompt was designed to make a game for new baristas to be able to memorise dr
 | Fiona | Gado Gado | Creme Brulee |
 | Tobias | Shrimp Ceeviche | French Apple Cake |
 | Leanne | Beef Wellington | Rashberry Tiramisu |
+# November 3, 2025
+1. What’s the problem?
+Why is it a big deal if SNAP runs out of funding? Who might be most affected?
+Many families would be impacted and starve due to SNAP running out of money, this would especially effect low income since they rely more on cheaper prices to feed their families.
+2. How could technology help?
+Technology could make SNAP's resources more avalibale and spread the word of what they do to possibly get more funding.
+3. What challenges might exist?
+People who need their resources the most might not have technology to access the resrouces if put only online.
+4. If you were the designer…
+I would create an app that partnerd with many stores where you get groceries and would give you coupons and tell you when coupons were avalible and in which locations (the stores we are partnerd with), additionally giving a servay option where if you answer survays the store porvided the store will offer a coupon, discount, or points in the app that could lead to free items. With this sytem, the stores gain customers and feedback, and the people gain discounts 
