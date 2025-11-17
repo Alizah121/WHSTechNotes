@@ -36,6 +36,9 @@ Technology could make SNAP's resources more avalibale and spread the word of wha
 3. What challenges might exist?
 People who need their resources the most might not have technology to access the resrouces if put only online.
 4. If you were the designer…
+I would make it user friendly and easy to understand with all the features said before.
+# November 17, 2025
+Yes!
 I would create an app that partnerd with many stores where you get groceries and would give you coupons and tell you when coupons were avalible and in which locations (the stores we are partnerd with), additionally giving a servay option where if you answer survays the store porvided the store will offer a coupon, discount, or points in the app that could lead to free items. With this sytem, the stores gain customers and feedback, and the people gain discounts
 # November 10, 2025
 With new technology holidays have changed in many ways, for the better and worse. For example, now with technology gift buying is more accessable than even with online shopping such as Amazon
