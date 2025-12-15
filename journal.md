@@ -45,3 +45,5 @@ Yes!
 Used free pass to skip :)
 # December 8, 2025
 The self-driving car is most likey porgrammed for stationary signs or even not programmed to see signs at all due to how maps and navigation systems have known signs logged, both of these would become an issue since a sign on a bus is not the usual level and size of stop signs and constantly moving busses are not marked on navigation systems. If i was a programmer on the team I would implement a spacific code to know how to navagate this situation rather than relying on the general stop sign code. Specifically it would start by identifying if the vheical was a school bus, the look to see if the stop sign was out. It depends on the type of software they use to gather information on signs and veichles, but as previously stated the best way would be to dedicate very specific code to navigate the scenario.
+# December 15, 2025
+I plan to spend time with friends and family doing chrismas-y acctivites, rest a lot, and maybe go on a mini vacation!
