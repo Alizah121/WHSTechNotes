@@ -49,3 +49,5 @@ The self-driving car is most likey porgrammed for stationary signs or even not p
 I plan to spend time with friends and family doing chrismas-y acctivites, rest a lot, and maybe go on a mini vacation!
 # January 6, 2026
 I used my phone to stay connected to friends and family. When I had hangouts with friends we played video games together. I watched many movies throught the break!
+# January 12, 2026
+In the unregulated and annonomus world of the internet, safe places are a needed to have a place to express ones self without the concern of getting bullied or harassed. Just like in the non-digital world, rules and regulations are nessisary to ensure all people are safe and will actually have fun when using the internet, so developers should take into account the social aspect when developing games and spaces to ensure their work will not turn currupt and make people hesitant to join or try it at all.
