@@ -52,7 +52,6 @@ I used my phone to stay connected to friends and family. When I had hangouts wit
 # January 12, 2026
 In the unregulated and annonomus world of the internet, safe places are a needed to have a place to express ones self without the concern of getting bullied or harassed. Just like in the non-digital world, rules and regulations are nessisary to ensure all people are safe and will actually have fun when using the internet, so developers should take into account the social aspect when developing games and spaces to ensure their work will not turn currupt and make people hesitant to join or try it at all.
 # Janurary 20, 2026
-In your journal, use C.E.R. to: Describe at least one way technology can help create a more fair and just society Explain why that use of technology matters Write 5-7 complete sentences.
-mewo 
+Technology can be used to give more people opprotunities to try and create a more fair opprotunities. Along with that it might be able to be used to hold people accountable when they do treat others unjustly. Possibly to keep track of systems to keep things fair for all, algorithms that ensure things are fair. However, that could become to controlling if used incorrecty like in futureistic si-fi movies when AI takes over. But when used correctly it can help spread opprotunities such as schooling and jobs. And attempt to aid in keeping people accountable when they do unjust things.
 # Janurary 29, 2026
 I am a junior that did not test. Monday school was canceled, then I did not go to Tuesday due to testing, since I did not have testing. Then on Wednesday I was forced to come for at least some of the time so I came for the afternoon classes around 1pm.
