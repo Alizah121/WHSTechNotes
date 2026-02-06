@@ -55,3 +55,5 @@ In the unregulated and annonomus world of the internet, safe places are a needed
 Technology can be used to give more people opprotunities to try and create a more fair opprotunities. Along with that it might be able to be used to hold people accountable when they do treat others unjustly. Possibly to keep track of systems to keep things fair for all, algorithms that ensure things are fair. However, that could become to controlling if used incorrecty like in futureistic si-fi movies when AI takes over. But when used correctly it can help spread opprotunities such as schooling and jobs. And attempt to aid in keeping people accountable when they do unjust things.
 # Janurary 29, 2026
 I am a junior that did not test. Monday school was canceled, then I did not go to Tuesday due to testing, since I did not have testing. Then on Wednesday I was forced to come for at least some of the time so I came for the afternoon classes around 1pm.
+# February 2, 2026
+To behave professinaly is to behave ones self in a composed, calm, manner. Some instanses of this is, not being roudy, keeping your area neet, and teating others around you with respect.
