@@ -57,3 +57,5 @@ Technology can be used to give more people opprotunities to try and create a mor
 I am a junior that did not test. Monday school was canceled, then I did not go to Tuesday due to testing, since I did not have testing. Then on Wednesday I was forced to come for at least some of the time so I came for the afternoon classes around 1pm.
 # February 2, 2026
 To behave professinaly is to behave ones self in a composed, calm, manner. Some instanses of this is, not being roudy, keeping your area neet, and teating others around you with respect.
+# February 10, 2026
+I do not enjoy watching football, no I did not watch it however i did hear the seahawks won.
