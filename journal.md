@@ -59,3 +59,5 @@ I am a junior that did not test. Monday school was canceled, then I did not go t
 To behave professinaly is to behave ones self in a composed, calm, manner. Some instanses of this is, not being roudy, keeping your area neet, and teating others around you with respect.
 # February 10, 2026
 I do not enjoy watching football, no I did not watch it however i did hear the seahawks won.
+# February 23, 2026
+New and better cameras had the biggest impact on the olympics in fairness and entertainment. New cameras allowed for judges to have better angles and views of preformances, another way new cameras were used were to expand entertainment through the utilization of drones to get close ups to olympic events. This new technology expanded fairness and entertainment in new ways.
