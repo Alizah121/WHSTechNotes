@@ -61,3 +61,12 @@ To behave professinaly is to behave ones self in a composed, calm, manner. Some 
 I do not enjoy watching football, no I did not watch it however i did hear the seahawks won.
 # February 23, 2026
 New and better cameras had the biggest impact on the olympics in fairness and entertainment. New cameras allowed for judges to have better angles and views of preformances, another way new cameras were used were to expand entertainment through the utilization of drones to get close ups to olympic events. This new technology expanded fairness and entertainment in new ways.
+# March 2, 2026
+##### Job #1
+- **Company:**
+- **Job Title:**
+- **Education Required:**  
+- **Experience Required:**  
+- **Skills / Tools / Languages:**  
+- **Certifications (if any):**  
+- **What the job does (1–2 sentences):**
