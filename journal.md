@@ -63,10 +63,18 @@ I do not enjoy watching football, no I did not watch it however i did hear the s
 New and better cameras had the biggest impact on the olympics in fairness and entertainment. New cameras allowed for judges to have better angles and views of preformances, another way new cameras were used were to expand entertainment through the utilization of drones to get close ups to olympic events. This new technology expanded fairness and entertainment in new ways.
 # March 2, 2026
 ##### Job #1
-- **Company:**
-- **Job Title:**
-- **Education Required:**  
-- **Experience Required:**  
-- **Skills / Tools / Languages:**  
-- **Certifications (if any):**  
-- **What the job does (1–2 sentences):**
+- Company: Frost Bank
+- Job Title: SOFTWARE ENGINEER III
+- Education Required: Bachelor’s degree in Computer Science, Engineering, in a related field.
+- Experience Required: Equivalent experience to a Bachelor's degree.
+- Skills / Tools / Languages: Extensive experience in mobile development with Swift (iOS) and Kotlin (Android) with a proven track record in designing and building high-quality, user-friendly mobile applications. 
+- Certifications (if any): None stated.
+- What the job does (1–2 sentences): The role is in charge of designing, writing, testing, implementing, supporting, and documenting solutions for assigned programs and applications across Frost Bank. 
+##### Job #2
+- Company:
+- Job Title:
+- Education Required:  
+- Experience Required:
+- Skills / Tools / Languages:  
+- Certifications (if any):
+- What the job does (1–2 sentences):
