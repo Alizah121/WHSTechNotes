@@ -78,3 +78,5 @@ New and better cameras had the biggest impact on the olympics in fairness and en
 - Skills / Tools / Languages:  
 - Certifications (if any):
 - What the job does (1–2 sentences):
+# March 23, 2026
+I choose the bracet out of feeling and estimated rank. It is going okay so far. Im not sure because I havent seen the results. Data provides more information for a person to more accurately asses the chances of teams winning or lossing a game. Computers could pull given data and run the statistics. Possibly sports scouts in order to see a players chances of making their teams better.
